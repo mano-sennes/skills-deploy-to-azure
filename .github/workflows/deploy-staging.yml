@@ -1,4 +1,4 @@
-name: pull request label
+name: Stage the app
 on:
   pull_request:
     types: labeled
